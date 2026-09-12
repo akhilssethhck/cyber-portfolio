@@ -584,3 +584,11 @@ footer {
         padding: 25px;
     }
 }
+.status::before,
+.status-dot,
+.online-dot,
+.availability-dot {
+    background-color: #00ff66 !important;
+    background: #00ff66 !important;
+    box-shadow: 0 0 10px #00ff66 !important;
+}
